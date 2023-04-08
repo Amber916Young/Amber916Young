@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![Amber916Young's github stats](//p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1188110e11c84be89e6c60130622635a~tplv-k3u1fbpfcp-zoom-1.image)](https://github.com/Amber916Young/github-readme-stats)
+[![Amber916Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amber916Young)](https://github.com/anuraghazra/github-readme-stats)
+
+
