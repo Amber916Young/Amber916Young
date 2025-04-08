@@ -1,7 +1,13 @@
 ### Hi there 👋 I am a backend developer.
-🔭 I’m currently working on Mycloudpa, a startup company.
+🔭 I’m currently working on a startup company.
 
-🌱 I’m currently learning flutter... and so many interesting things
+🌱 I’m currently learning Flutter and so many other interesting things:
+⚡ Blog
+⚡ Video editing
+⚡ Kendo 🤺
+⚡ Hiking ⛰️
+⚡ Explore the word!
+
 
 <!--
 **Amber916Young/Amber916Young** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
